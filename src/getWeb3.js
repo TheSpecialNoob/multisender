@@ -17,14 +17,14 @@ let getWeb3 = () => {
             case "1":
               netIdName = 'Foundation'
               trustApiName = 'api'
-              explorerUrl = 'https://etherscan.io'
+              explorerUrl = 'https://explorer.harmony.one/'
               console.log('This is Foundation', netId)
               break;
             case "2":
-              netIdName = 'Harmony ONE'
-              trustApiName = 'Harmony'
-              explorerUrl = 'https://explorer.harmony.one/'
-              console.log('This is Harmony ONE', netId)
+              netIdName = 'Ethereum'
+              trustApiName = 'api'
+              explorerUrl = 'https://etherscan.io'
+              console.log('This is Ethereum', netId)
               break;
             case "3":
               netIdName = 'Ropsten'

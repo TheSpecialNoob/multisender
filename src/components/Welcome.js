@@ -6,7 +6,7 @@ export class Welcome extends React.Component {
     return (
       <div className="container container_bg">
         <div className="content">
-          <h1 className="title"><strong>Welcome to Token</strong> MultiSender</h1>
+          <h1 className="title"><strong>Welcome to Token</strong> MultiSender By FundsFi</h1>
           <p className="description">
             Desc youtube video how to use multisender
           </p>
