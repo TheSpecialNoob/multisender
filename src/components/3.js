@@ -61,7 +61,7 @@ export class ThirdStep extends React.Component {
     return (
       <div className="container container_bg">
         <div className="content">
-          <h1 className="title"><strong>Welcome to Token</strong> MultiSender</h1>
+          <h1 className="title"><strong>Welcome to Token</strong> MultiSender By FundsFi</h1>
           <p className="description">
           Please provide Token Address, JSON file with addresses <br />
           This Dapp supports Mainnet, POA-Core, POA-sokol, Ropsten, Rinkeby, Kovan

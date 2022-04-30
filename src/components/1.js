@@ -245,7 +245,7 @@ export class FirstStep extends React.Component {
             loading={this.web3Store.loading} 
             />
           </div>
-          <h1 className="title"><strong>Welcome to Token</strong> MultiSender</h1>
+          <h1 className="title"><strong>Welcome to Token</strong> MultiSender By FundsFi</h1>
           <p className="description">
             Please provide Token Address, JSON/CSV file with addresses <br />
             This Dapp supports Mainnet, POA-Core, POA-sokol, Ropsten, Rinkeby, Kovan <br/>

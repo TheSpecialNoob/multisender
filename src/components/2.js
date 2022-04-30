@@ -6,7 +6,7 @@ export class SecondStep extends React.Component {
     return (
       <div className="container container_bg">
         <div className="content">
-          <h1 className="title"><strong>Welcome to Token</strong> MultiSender</h1>
+          <h1 className="title"><strong>Welcome to Token</strong> MultiSender By FundsFi</h1>
           <p className="description">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
             tempor incididunt ut labore <a href="#">et dolore magna</a> aliqua.

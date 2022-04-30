@@ -20,6 +20,12 @@ let getWeb3 = () => {
               explorerUrl = 'https://etherscan.io'
               console.log('This is Foundation', netId)
               break;
+            case "2":
+              netIdName = 'Harmony ONE'
+              trustApiName = 'Harmony'
+              explorerUrl = 'https://explorer.harmony.one/'
+              console.log('This is Harmony ONE', netId)
+              break;
             case "3":
               netIdName = 'Ropsten'
               trustApiName = 'ropsten'
